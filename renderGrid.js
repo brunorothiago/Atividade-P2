@@ -54,7 +54,7 @@ async function fetchAndRenderGrid(docUrl) {
   }
 }
 
-// Replace with your published Google Doc URL here:
+// Adicionar URL aqui:
 const docUrl = 'https://docs.google.com/document/d/e/2PACX-1vSZ1vDD85PCR1d5QC2XwbXClC1Kuh3a4u0y3VbTvTFQI53erafhUkGot24ulET8ZRqFSzYoi3pLTGwM/pub';
 
 fetchAndRenderGrid(docUrl);
